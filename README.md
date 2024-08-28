@@ -9,6 +9,10 @@ Confira o arquivo javan-urbieta.css com seletores de elementos h1 h2
 Confira o arquivo javan-urbieta.html com estrutura básica de HTML
 Confira o arquivo javan-urbieta.html com estrutura básica de HTML
 
-## Passo 3: Aula como trsnformar links e botões com css
+## Passo 3: Aula csnomo trformar links e botões com css
+Confira o arquivo javan-urbieta.html com link (anchor)
+Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
+
+## Passo 4: Aula Desafogando Seu Texto com Espaçamento
 Confira o arquivo javan-urbieta.html com link (anchor)
 Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
