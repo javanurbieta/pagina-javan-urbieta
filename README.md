@@ -16,7 +16,3 @@ Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
 ## Passo 4: Aula Desafogando Seu Texto com Espaçamento
 Confira o arquivo javan-urbieta.html com link (anchor)
 Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
-
-## Passo 5: Aula Como inserir e centralizar imagens em uma página HTML
-Confira o arquivo javan-urbieta.html com imagem (img)
-Confira o arquivo javan-urbieta.css classe `center` para centralizar imagem
