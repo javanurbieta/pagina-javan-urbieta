@@ -23,7 +23,7 @@
     font-family: sans-serif;
     letter-spacing: 2pt;
     padding-bottom: 20px;
-    
+
 }
 
 .subtitle2 {
@@ -50,4 +50,8 @@
     border-radius: 5px;
     padding: 20px 40px;
     text-decoration: none;
+}
+
+.center {
+    text-align: center;
 }
