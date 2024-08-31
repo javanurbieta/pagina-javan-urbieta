@@ -16,3 +16,7 @@ Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
 ## Passo 4: Aula Desafogando Seu Texto com Espaçamento
 Confira o arquivo javan-urbieta.html com link (anchor)
 Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
+
+## Passo 5: Aula incorporando Barras de Progresso com HTML e CSS
+Confira o arquivo javan-urbieta.html tag progresso
+Confira o arquivo javan-urbieta.css com classe barra-progresso
