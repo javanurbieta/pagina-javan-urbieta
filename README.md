@@ -23,3 +23,7 @@ Confira o arquivo javan-urbieta.css com classe barra-progresso
 ## Passo 6: Aula Desenvolvimento o CSS: Tag semântica, pseudo-classe e caracteres
 Confira o arquivo javan-urbieta.html tag footer
 Confira o arquivo javan-urbieta.css com classe rodape
+
+## Passo 7: Aula Letras com Estilo: Dominado as Fontes no Desenvolvimento Web
+Confira o arquivo javan-urbieta.html com import de fonte da web
+Confira o arquivo javan-urbieta.css com fonte family Montserrat
