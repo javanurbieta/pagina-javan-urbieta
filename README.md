@@ -20,3 +20,6 @@ Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
 ## Passo 5: Aula incorporando Barras de Progresso com HTML e CSS
 Confira o arquivo javan-urbieta.html tag progresso
 Confira o arquivo javan-urbieta.css com classe barra-progresso
+## Passo 6: Aula Desenvolvimento o CSS: Tag semântica, pseudo-classe e caracteres
+Confira o arquivo javan-urbieta.html tag footer
+Confira o arquivo javan-urbieta.css com classe rodape
