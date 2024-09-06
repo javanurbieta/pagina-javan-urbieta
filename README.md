@@ -1,3 +1,13 @@
+Suba a aplicação com o comando:
+`docker compose up -d` 
+
+Acesse `localhost` para ver se aparece a página do Nginx.
+
+Acesse: `localhost/javan-urbieta-.html` para ver a página do Javan Urbieta.
+
+Pare o conteiner com o comando:
+`docker compose down`
+
 # pagina-javan-urbieta
 Projeto para aprender HTML  e CSS básico
 
@@ -16,6 +26,8 @@ Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
 ## Passo 4: Aula Desafogando Seu Texto com Espaçamento
 Confira o arquivo javan-urbieta.html com link (anchor)
 Confira o arquivo javan-urbieta.css com marcaçãp CSS para botão
+
+
 
 ## Passo 5: Aula incorporando Barras de Progresso com HTML e CSS
 Confira o arquivo javan-urbieta.html tag progresso
